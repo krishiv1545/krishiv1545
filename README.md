@@ -9,7 +9,6 @@
 ## About Me
 - 2nd year B.E. in Computer Engineering student at SAL Engineering & Technical Institute
 - BS in Data Science (Diploma level) student at Indian Institute Of Technology, Madras
-
 ## Skills
 ```
 ┌───────────────────────────────────────────────────────────────────────────┐
@@ -27,6 +26,11 @@
 │                 │                 │   (beginner)    │                     │
 └─────────────────┴─────────────────┴─────────────────┴─────────────────────┘
 ```
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+</div>
+
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krishiv1545&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 ## Top Languages
